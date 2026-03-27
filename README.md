@@ -1,10 +1,12 @@
 <div align="center">
 
-```                                                                                                                                                      
-██     ▄▄ ▄▄  ▄▄ ▄▄ ▄▄ ▄▄ ▄▄   ██████ ▄▄  ▄▄  ▄▄▄▄ ▄▄▄▄▄ ▄▄  ▄▄ ▄▄▄▄▄ ▄▄▄▄▄ ▄▄▄▄  
-██     ██ ███▄██ ██ ██ ▀█▄█▀   ██▄▄   ███▄██ ██ ▄▄ ██▄▄  ███▄██ ██▄▄  ██▄▄  ██▄█▄ 
-██████ ██ ██ ▀██ ▀███▀ ██ ██   ██▄▄▄▄ ██ ▀██ ▀███▀ ██▄▄▄ ██ ▀██ ██▄▄▄ ██▄▄▄ ██ ██ 
-                                                                                  
+```
+                                                                               
+                                                                               
+██     ▄▄ ▄▄  ▄▄ ▄▄ ▄▄ ▄▄ ▄▄   ██████ ▄▄  ▄▄  ▄▄▄▄ ▄▄ ▄▄  ▄▄ ▄▄▄▄▄ ▄▄▄▄▄ ▄▄▄▄  
+██     ██ ███▄██ ██ ██ ▀█▄█▀   ██▄▄   ███▄██ ██ ▄▄ ██ ███▄██ ██▄▄  ██▄▄  ██▄█▄ 
+██████ ██ ██ ▀██ ▀███▀ ██ ██   ██▄▄▄▄ ██ ▀██ ▀███▀ ██ ██ ▀██ ██▄▄▄ ██▄▄▄ ██ ██ 
+                                                                               
 ```
 
 </div>
@@ -13,7 +15,7 @@
 
 # `$ whoami`
 
-**Especialista Linux · Infraestrutura · Estudando Java**
+**Especialista Linux · ProxMox · Estudando Java**
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Linux+Power+User+%F0%9F%90%A7;Zimbra+%7C+Zabbix+%7C+Grafana+Engineer;Estudando+Desenvolvimento+em+Java+%E2%98%95;Infrastructure+%2B+Code+%3D+%E2%9D%A4%EF%B8%8F)](https://git.io/typing-svg)
 
@@ -28,7 +30,7 @@ $ cat about_me.txt
 ```
 
 ```
-Nome    : Thiago Campos Marinho
+Nome    : [Seu Nome]
 Role    : Especialista Linux & Infrastructure Engineer
 Status  : Estudando Java Development 🚀
 Foco    : DevOps | Monitoramento | Automação
@@ -121,15 +123,15 @@ $ systemctl status expertise
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagowarwick&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagowarwick&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=thiagowarwick&theme=dark&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=SEU_USERNAME&theme=dark&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41)](https://git.io/streak-stats)
 
 </div>
 
@@ -156,8 +158,8 @@ $ systemctl status expertise
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_USUARIO)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:c.thiagomarinho@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thiagowarwick)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEU_USERNAME)
 
 </div>
 
@@ -169,7 +171,7 @@ $ systemctl status expertise
 $ echo "Obrigado pela visita! ⚡"
 ```
 
-![Visitor Count](https://profile-counter.glitch.me/thiagowarwick/count.svg)
+![Visitor Count](https://komarev.com/ghpvc/?username=thiagowarwick&color=00ff41&style=for-the-badge&label=VISITAS)
 
 *"No kernel we trust"* 🐧
 
