@@ -30,7 +30,7 @@ $ cat about_me.txt
 ```
 
 ```
-Nome    : [Seu Nome]
+Nome    : Thiago Marinho
 Role    : Especialista Linux & Infrastructure Engineer
 Status  : Estudando Java Development 🚀
 Foco    : DevOps | Monitoramento | Automação
